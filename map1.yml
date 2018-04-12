@@ -1,0 +1,41 @@
+name: 初出茅庐
+biography:
+tiles:
+  x: 12
+  y: 8
+  data: |
+        1 1 1 1 1 1 1 1 1 1 1 1
+        0 0 0 0 1 0 0 0 0 0 0 0
+        0 1 0 0 0 0 0 1 0 1 0 0
+        0 0 0 1 0 0 0 1 0 1 0 0
+        0 0 0 0 0 0 0 1 0 0 0 0
+        0 0 0 0 1 0 0 0 0 1 0 0
+        0 0 1 0 0 1 0 0 0 0 0 0
+        1 1 1 1 1 1 1 1 1 1 1 1
+troops:
+  allies:
+  - name: Marth
+    job: Hero
+    x: 4
+    y: 3
+  - name: Jun
+    job: Lancer
+    x: 4
+    y: 5
+  - name: Wayne
+    job: Mercenary
+    x: 2
+    y: 4
+  enimies:
+  - name: Jack Sparrow
+    job: Pirate
+    x: 9
+    y: 3
+  - name: Pirate
+    job: Pirate
+    x: 8
+    y: 2
+  - name: Pirate
+    job: Pirate
+    x: 8
+    y: 4
