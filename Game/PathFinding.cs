@@ -60,11 +60,11 @@ namespace Game
         }
         private enum Direction
         {
+            NA,
             Up,
             Down,
             Left,
             Right,
-            NA,
         }
     }
 
